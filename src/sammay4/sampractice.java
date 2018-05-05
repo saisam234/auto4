@@ -7,6 +7,8 @@ public class sampractice {
     System.out.println("changes made in sam4b");
     
     System.out.println("second time changes made in sam4b");
+    
+    System.out.println("changes made in branch4");
 	}
 
 }
